@@ -96,7 +96,7 @@ footer{
 }
 
 main {
-    
+    padding-left: 2%;
 }
 
 form {
@@ -268,4 +268,5 @@ td,th {
             width: 100%;
        }
 }
+
 
