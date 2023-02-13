@@ -1,3 +1,8 @@
-<h1>Barbearia Alura</h1>
+<h1 align="center">Barbearia Alura</h1>
 
-<div>Projeto feito durante o curso de HTML/CSS da Alura.</div>
+<h2>Descrição do Projeto</h2>
+
+<p>Pirmeiro projeto realizado durante o curso de HTML/CSS.
+
+Certificado em: HTML/CSS - Alura</p>
+
